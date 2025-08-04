@@ -6,7 +6,9 @@ This project builds and evaluates a **Convolutional Neural Network (CNN)** for b
 
 ## 🚀 Business Context
 
-Rider safety is a major concern in transportation. Helmet usage significantly reduces the risk of head injury. This project simulates a visual detection system for helmet presence using image classification — a concept applicable in real-world surveillance and smart traffic systems.
+In high-risk environments such as construction sites and industrial facilities, ensuring worker safety is paramount. Safety helmets play a vital role in protecting workers from head injuries caused by falling objects or machinery. However, enforcing helmet compliance manually across large and dynamic job sites can be inefficient and error-prone.
+
+To address this, SafeGuard Corp envisions an AI-powered image recognition system that can automatically detect whether individuals are wearing safety helmets in real time. This automated monitoring solution aims to reduce dependency on manual checks, improve compliance accuracy, and ultimately create safer workspaces by minimizing the risk of serious injuries due to non-compliance.
 
 ---
 
