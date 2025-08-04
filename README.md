@@ -69,7 +69,7 @@ Balanced dataset with nearly equal number of samples in both classes:
 
 ```
 📦Helmet-Detection-Assignment/
- ┣ 📜Assignment_HelmNet_Code_Govind.ipynb
+ ┣ 📜Helmet_Detection_CNN_Govind.ipynb
  ┣ 📂data/
  ┃ ┣ 📂yes/
  ┃ ┗ 📂no/
